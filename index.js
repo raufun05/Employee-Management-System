@@ -15,7 +15,7 @@ var connection = mysql.createConnection({
 connection.connect((err) => {
   if (err) throw err;
   // run the start function after the connection is made to prompt the user
-  firstPrompt();
+  //firstPrompt();
 });
 
 // function which prompts the user for what action they should take
