@@ -2,6 +2,10 @@
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
+## A completed walkthrough video demonstrating the functionality of the application.
+ https://drive.google.com/file/d/1-i_DUBk8eICaxFtTUg-ORBF19m6jZgbm/view
+
+
 ## Instructions
 
 Design the following database schema containing three tables:
@@ -16,7 +20,8 @@ Design the following database schema containing three tables:
 * **role**:
 
   * **id** - INT PRIMARY KEY
-  * **title** -  VARCHAR(30) to hold role title
+  * **title** -  VARCHAR(30) to hold role ti
+  tle
   * **salary** -  DECIMAL to hold role salary
   * **department_id** -  INT to hold reference to department role belongs to
 
@@ -131,7 +136,11 @@ You are required to submit the following:
 
 * The URL of the GitHub repository
 
+  https://github.com/raufun05/Employee-Management-System 
+
 * A video demonstrating the entirety of the app's functionality 
+
+  https://drive.google.com/file/d/16tnBLOm9zdYnYAbvWQadr_N7fl274uHV/view
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
